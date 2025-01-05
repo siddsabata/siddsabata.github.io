@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Quantitative Biology and Bioinformatics, Carnegie Mellon University, 2025
+  * Relevant Coursework:
+  * Programming for Scientists
+  * Essential Mathematics and Statistics for Scientists
+  * Introduction to Deep Learning (in progress)
+  * Fundamentals of Bioinformatics (in progress)
+* B.S. in Statistics and Data Science, University of California, Santa Barbara, 2024
+  * Relevant Coursework:
+  * Introduction to Statistical Machine Learning
+  * Regression Analysis
+  * Big Data Analytics
+  * Time Series Analysis
+  * Bayesian Inference
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2024 - Present: Graduate Research Assistant
+  * CMU School of Computer Science Computational Biology Department
+  * Advisor: Dr. Russell Schwartz  
+  * Creating novel machine learning classifier to predict tumor metastasis from blood draw samples taken at numerous time points
+  * Mapping tumor evolutionary pathways from liquid biopsy data using PhyloWGS, a probabilistic model employing Bayesian inference and Markov chain Monte Carlo methods
+  * Building automated data processing pipeline using Bash, Slurm, and Python, containerized with Singularity, to efficiently process large datasets into clear insights into tumor progression on high performance computing cluster
+  * Enabling non-technical users to process patient data and uncover meaningful patterns in tumor development, through a web application powered by Streamlit and deployed with Docker
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 - June 2024: Undergraduate Researcher
+  * UCSB Department of Mathematics
+  * Advisor: Dr. Jea-Hyun Park 
+  * Developed advanced methods, based on Dr. Steven Brunton's work, for discovery and analysis of mobility and conductivity parameters in Cahn-Hilliard and heat equations for materials research
+  * Applied sparse modeling techniques to structure noisy data and extract optimized models of linear and nonlinear dynamical systems
+  * Devised advanced parameter estimation algorithms, including sequential threshold least squares and LASSO, with Python, NumPy, and scikit-learn
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+  * NumPy
+  * pandas
+  * scikit-learn
+  * SciPy
+  * PyTorch
+* R
+* Go
+  * Parallel programming
+* SQL
+* Git
+* Docker
