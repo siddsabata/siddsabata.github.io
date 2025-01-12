@@ -25,6 +25,12 @@ Education
   * Time Series Analysis
   * Bayesian Inference
 
+Certifications
+======
+* IBM Deep Neural Networks with PyTorch, 2024
+  * via Coursera 
+  * [Link](https://coursera.org/share/78ba5953c1268a62979a4dbde56ddc64) to certificate
+
 Research experience
 ======
 * August 2024 - Present: Graduate Research Assistant
