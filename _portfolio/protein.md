@@ -1,6 +1,6 @@
 ---
 title: "Protein Function Prediction with PyTorch"
-excerpt: "A deep learning project using PyTorch and scikit-learn to predict protein function from structural data."
+excerpt: "A deep learning project using PyTorch and scikit-learn to predict protein function from structural data"
 collection: portfolio
 ---
 
