@@ -13,10 +13,10 @@ Education
 ======
 * M.S. in Quantitative Biology and Bioinformatics, Carnegie Mellon University, 2025
   * Relevant Coursework:
-  * Programming for Scientists
-  * Essential Mathematics and Statistics for Scientists
-  * Introduction to Deep Learning (in progress)
-  * Fundamentals of Bioinformatics (in progress)
+  * 02-601 Programming for Scientists
+  * 02-680 Essential Mathematics and Statistics for Scientists
+  * [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S25/index.html) (in progress)
+  * 02-731 Modeling Evolution (in progress)
 * B.S. in Statistics and Data Science, University of California, Santa Barbara, 2024
   * Relevant Coursework:
   * Introduction to Statistical Machine Learning
