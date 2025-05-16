@@ -15,6 +15,6 @@
 
 - project: TracerX Marker Selection Pipeline
   role: Research Assistant
-  duration: August 2024 &mdash; Present
+  duration: September 2024 &mdash; Present
   url: ""
   description: This project showcases the development of the TracerX Marker Selection Pipeline, a sophisticated computational workflow designed to identify optimal genetic markers from multi-region cancer sequencing data. The pipeline addresses several key technical challenges, including the orchestration of complex, multi-stage bioinformatics analyses on High-Performance Computing (HPC) clusters using Slurm, management of distinct software dependencies for each stage via Conda environments, and robust handling of path resolution in distributed computing. It integrates specialized tools like PhyloWGS for phylogenetic inference and Gurobi for optimization, enabling the analysis of tumor evolution and heterogeneity. The primary application is to select highly informative genetic markers suitable for tracking cancer progression and response to therapy, particularly through less invasive liquid biopsies (ctDNA). The significance of this pipeline lies in its potential to advance personalized cancer medicine, offering a powerful tool for researchers to understand clonal dynamics and ultimately improve patient monitoring and treatment strategies by providing a clearer picture of how a patient's cancer is evolving over time.
