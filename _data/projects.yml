@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
 - project: Population-Specific Multiomics Graph Analysis of ACE Protein Expression
   role: Lead ML Engineer
   duration: March 2025
   url: "https://github.com/collaborativebioinformatics/Multiomic_graph"
   description: Led the development of a graph-based multiomics pipeline to identify population-specific genetic variants influencing ACE protein expression by integrating protein quantitative trait locus (pQTL) data with annotated genomic references. Built scalable, GPU-compatible graph inputs using PyTorch Geometric, facilitating efficient downstream Graph Neural Network analyses. Engineered comprehensive variant-mapping pipelines using pandas and NetworkX to elucidate cis- and trans-regulatory mechanisms across populations. Received the “Most Innovative Project” award at the Machine Learning & AI Approaches to Multimodal Problems in Computational Biology Hackathon, highlighting strong collaboration, clear documentation, and impactful innovation.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Medical Reasoning with Distilled Models 
+  role: Lead ML Engineer
+  duration: January 2025 &mdash; May 2025
+  url: "https://github.com/siddsabata/MR-DeepSeek"
+  description: We developed a fine-tuned medical reasoning language model using DeepSeek-R1-Distill-Llama-8B, targeting expert-level clinical problem-solving through supervised fine-tuning (SFT) with QLoRA. Tackling the unique challenges of reasoning model overfitting, we conducted extensive ablations—reducing the learning rate, trimming training to a single epoch, and adjusting weight decay—to preserve chain-of-thought quality while boosting accuracy. Our model achieved strong performance across MedQA, MedMCQA, and PubMedQA benchmarks, closing nearly half the gap to HuatuoGPT-o1-8B, a state-of-the-art model that also uses reinforcement learning. We built a full evaluation pipeline, deployed experiments on the Pittsburgh Supercomputing Center (PSC), and contributed practical insights into hyperparameter tuning for fine-tuning distilled reasoning models. This work underscores the tradeoff between memorization and generalization in LLM post-training and provides actionable strategies for domain adaptation in low-resource settings.
+
+- project: 
+  role: Research Assistant
+  duration: August 2024 &mdash; Present
+  url: ""
+  description: This project showcases the development of the TracerX Marker Selection Pipeline, a sophisticated computational workflow designed to identify optimal genetic markers from multi-region cancer sequencing data. The pipeline addresses several key technical challenges, including the orchestration of complex, multi-stage bioinformatics analyses on High-Performance Computing (HPC) clusters using Slurm, management of distinct software dependencies for each stage via Conda environments, and robust handling of path resolution in distributed computing. It integrates specialized tools like PhyloWGS for phylogenetic inference and Gurobi for optimization, enabling the analysis of tumor evolution and heterogeneity. The primary application is to select highly informative genetic markers suitable for tracking cancer progression and response to therapy, particularly through less invasive liquid biopsies (ctDNA). The significance of this pipeline lies in its potential to advance personalized cancer medicine, offering a powerful tool for researchers to understand clonal dynamics and ultimately improve patient monitoring and treatment strategies by providing a clearer picture of how a patient's cancer is evolving over time.

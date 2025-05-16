@@ -6,4 +6,4 @@
   description: Git, Slurm, Docker, Google Cloud Platform
 
 - skill: Libraries and frameworks
-  description: PyTorch, TensorFlow, scikit-learn, pandas, numpy, matplotlib, seaborn
+  description: PyTorch, Transformers, scikit-learn, pandas, numpy, matplotlib, seaborn
