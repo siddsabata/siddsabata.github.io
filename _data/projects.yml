@@ -13,7 +13,7 @@
   url: "https://github.com/siddsabata/MR-DeepSeek"
   description: We developed a fine-tuned medical reasoning language model using DeepSeek-R1-Distill-Llama-8B, targeting expert-level clinical problem-solving through supervised fine-tuning (SFT) with QLoRA. Tackling the unique challenges of reasoning model overfitting, we conducted extensive ablations—reducing the learning rate, trimming training to a single epoch, and adjusting weight decay—to preserve chain-of-thought quality while boosting accuracy. Our model achieved strong performance across MedQA, MedMCQA, and PubMedQA benchmarks, closing nearly half the gap to HuatuoGPT-o1-8B, a state-of-the-art model that also uses reinforcement learning. We built a full evaluation pipeline, deployed experiments on the Pittsburgh Supercomputing Center (PSC), and contributed practical insights into hyperparameter tuning for fine-tuning distilled reasoning models. This work underscores the tradeoff between memorization and generalization in LLM post-training and provides actionable strategies for domain adaptation in low-resource settings.
 
-- project: 
+- project: TracerX Marker Selection Pipeline
   role: Research Assistant
   duration: August 2024 &mdash; Present
   url: ""
